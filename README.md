@@ -6,6 +6,6 @@ Using Githup pages is probably the fastest way to get a few pages set up on the 
 
 You can write you pages in Markdown which is a light markup language. It means you can use formatting like **bold** or _italic_ without monkeying with CSS or HTML.
 
-[handmadepage](testpage.html)
+[handmadepage](testfile.html)
 
 **Bold** and _Italic_ and `Code` text
